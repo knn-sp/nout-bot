@@ -1,0 +1,16 @@
+{
+    "manager_button": {
+        "enabled": false
+    },
+    "rolesData": {
+        "access_button_manager": {
+            "993153721515135117": {
+                "name": "❱ Direção",
+                "id": "993153721515135117"
+            }
+        }
+    },
+    "review": {
+        "enabled": false
+    }
+}

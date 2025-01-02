@@ -1,0 +1,30 @@
+{
+    "title": "Está com alguma dúvida, fale com nosso suporte já.",
+    "description": "Se está com dúvida ou algum problema, você está no canal certo!\n\nCrie um ticket clicando no **botão abaixo** e escolha sua categoria de suporte e fale com nossos membros da equipe.",
+    "color": "#60fff9",
+    "image": null,
+    "footer": "A equipe Nout agradece por entrar em contato!",
+    "thumbnail": null,
+    "button": {
+        "text": "Abra um ticket",
+        "style": "2",
+        "emoji": "🎃"
+    },
+    "channel": {
+        "channelId": "1321224476817489960",
+        "messageId": "1321253591423647854"
+    },
+    "others_channels": {
+        "logs": "1321254814159601748"
+    },
+    "others_embeds": {
+        "embed_logs": {
+            "title": "SUAS LOGS",
+            "description": "O ticket do usuário **{user_username}** foi finalizado com sucesso!\n\n> Autor do ticket: {user} `({user_id})`\n> Categoria do ticket: **{category}**\n> Ticket ID: **{ticket_code}**\n\n**Declaração final:**\n```{reason}```\n> Horário de fechamento: {closed_at}\n\nPara visualizar as logs do ticket, basta efetuar o download do arquivo e abrir em seu navegador.",
+            "color": "#60fff9",
+            "image": null,
+            "footer": null,
+            "thumbnail": null
+        }
+    }
+}

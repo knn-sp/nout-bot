@@ -1,0 +1,10 @@
+{
+    "categorys": {
+        "Dúvidas": {
+            "name": "Dúvidas",
+            "emoji": "<:interrogao:1012542897092051045>",
+            "description": "Descrição da categoria Dúvidas.",
+            "parent": ""
+        }
+    }
+}
